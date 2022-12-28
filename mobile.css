@@ -1,6 +1,8 @@
 body{
     background-image: url(images/bg-mobile.svg);
     background-size: 100%;
+    height: 800px;
+    overflow: auto;
 
 }
 
@@ -58,6 +60,6 @@ button{
 
 .icons{
    justify-content: center;
-   bottom: 20px;
+   bottom: -140px;
 }
 

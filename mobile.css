@@ -55,12 +55,15 @@ p{
 }
 
 button{
-    width: 47%;
+    width: 70%;
 }
 
 .icons{
    justify-content: center;
-   bottom: -90px;
+   bottom: -120px;
    margin-bottom: 20px;
 }
 
+.text{
+    width: 300px;
+}

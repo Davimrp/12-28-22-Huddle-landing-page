@@ -1,0 +1,63 @@
+body{
+    background-image: url(images/bg-mobile.svg);
+    background-size: 100%;
+
+}
+
+.container2{
+    flex-direction: column;
+    margin-top: 50px;
+    margin-left: 0;
+}
+
+.img-principal{
+    width: 90%;
+    margin-left: 20px;
+}
+
+.img-principal img{
+    width: 100%
+}
+
+.logo{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.logo img{
+    width: 200px;
+}
+
+.box-right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 45px;
+
+}
+
+.titulo{
+    width: 80%;
+}
+h1{
+    margin: 0;
+    font-size: 1em;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 0.8em;
+}
+
+button{
+    width: 47%;
+}
+
+.icons{
+   justify-content: center;
+   bottom: 20px;
+}
+
